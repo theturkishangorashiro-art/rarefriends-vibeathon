@@ -15,7 +15,7 @@
 ## 💻 Source Repository & Instructions
 
 - **Source Code Directory:** [`friendsdk_repo/games/rare-haven/`](https://github.com/spokesz/rarefriends-vibeathon)
-- **SDK Version:** FriendSDK v0.1 (`@rarefriends/friendsdk@0.1.0`)
+- **SDK Version:** FriendSDK v0.1.2 (`@rarefriends/friendsdk@0.1.2`)
 
 ### Run Instructions
 From the repository root directory, execute:
